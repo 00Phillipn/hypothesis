@@ -33,7 +33,7 @@ coverage==7.3.2
     # via
     #   -r requirements/coverage.in
     #   hypofuzz
-dash==2.14.1
+dash==2.15.0
     # via hypofuzz
 dash-core-components==2.0.0
     # via dash
