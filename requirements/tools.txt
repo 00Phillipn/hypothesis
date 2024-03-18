@@ -18,7 +18,7 @@ babel==2.13.1
     # via sphinx
 beautifulsoup4==4.12.2
     # via sphinx-codeautolink
-black==23.10.1
+black==24.3.0
     # via shed
 build==1.0.3
     # via pip-tools
