@@ -6,7 +6,7 @@ gemspec
 
 gem 'rubocop', '~> 0.51.0'
 gem 'simplecov', '~> 0.15.1'
-gem 'yard', '~> 0.9.12'
+gem 'yard', '~> 0.9.35'
 gem 'rake', '>= 10.0', '< 14.0'
 gem 'redcarpet', '~> 3.4.0'
 gem 'rutie', '~> 0.0.3'
