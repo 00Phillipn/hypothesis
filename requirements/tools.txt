@@ -186,7 +186,7 @@ pyyaml==6.0.1
     # via libcst
 readme-renderer==42.0
     # via twine
-requests==2.31.0
+requests==2.32.0
     # via
     #   -r requirements/tools.in
     #   requests-toolbelt
