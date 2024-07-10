@@ -94,3 +94,4 @@ typing-inspect==0.9.0
     # via libcst
 tzdata==2023.3
     # via pandas
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
